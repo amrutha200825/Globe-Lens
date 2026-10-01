@@ -416,17 +416,6 @@ A first-time visitor can use attraction discovery, local food guidance, cultural
 
 > **Globe Lens aims to make travel assistance simpler by bringing essential planning, communication, navigation, discovery, cultural, and safety support into one intelligent platform.**
 
----
-
-## 👥 Team
-
-### QYRA
-
-Globe Lens is developed by **Team QYRA**, with a focus on building an AI-powered travel assistance platform that makes exploring unfamiliar destinations more convenient, accessible, and informed.
-
----
-
-
 ## ⭐ Support
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
